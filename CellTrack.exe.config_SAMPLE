@@ -72,6 +72,33 @@
       <setting name="ModemSignalRefreshTime" serializeAs="String">
         <value>00:01:00</value>
       </setting>
+	  <setting name="MapInitPointLat" serializeAs="String">
+        <value>23.751272</value>
+      </setting>
+      <setting name="MapInitPointLng" serializeAs="String">
+        <value>-103.734932</value>
+      </setting>
+      <setting name="SOKANUrl" serializeAs="String">
+        <value>http://www.dotnetperls.com/</value>
+      </setting>
+      <setting name="DoHealthCheck" serializeAs="String">
+        <value>00:03:00</value>
+      </setting>
+      <setting name="GetBalance" serializeAs="String">
+        <value>00:03:00</value>
+      </setting>
+      <setting name="HLRApiUrl" serializeAs="String">
+        <value>https://www.hlr-lookups.com/</value>
+      </setting>
+      <setting name="HLRApiUser" serializeAs="String">
+        <value>sda130868-api-c7d2495d06f1</value>
+      </setting>
+      <setting name="HLRApiPass" serializeAs="String">
+        <value>jWRq-NNjw-J$T@-RNVB-$j!V-s6*d</value>
+      </setting>
+      <setting name="HLRRoute" serializeAs="String">
+        <value>XT5</value>
+      </setting>
     </CellTrack.Properties.Settings>
   </userSettings>
   <runtime>
