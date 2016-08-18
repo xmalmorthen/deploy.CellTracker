@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
   <asmv1:assemblyIdentity name="CellTrack.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
     <assemblyIdentity name="CellTrack" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,14 +63,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CellTrack.exe" size="858624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CellTrack.exe" size="1014272">
       <assemblyIdentity name="CellTrack" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kGgYvn+2a+hQpGLqwRpJbZ2CUcgi+iKEVnH/iSg/oV8=</dsig:DigestValue>
+        <dsig:DigestValue>aNKZEIRQOv2MvLrByyTAkRMGZTETj9CVcsDel7AZ4yc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -105,7 +106,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Y1wzjCY79h/tX1ddNA1ARBrowUcArlgzlWjT2H+/avw=</dsig:DigestValue>
+        <dsig:DigestValue>P5+nir4Kdzd07iy5vVQVReJE/MJNqkWLNie1n6o/DL0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -117,7 +118,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>f2jrGgec82TsaaNBjaBIkvst0OzMUhnFYg9l9IuDBmU=</dsig:DigestValue>
+        <dsig:DigestValue>PG0aYDUHDyPTdP3MyQ+SPAuuK6XeCGCJYDNA3eF4l2c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -129,7 +130,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KPE1UZXLVj8dUEKEQH8SL/wh2l5yPDxmwzAPv37mbPc=</dsig:DigestValue>
+        <dsig:DigestValue>Qq7iL1BVfkqfZ05S3vv0BXFtwmB5UIeCqTU/J2ZurIQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -141,7 +142,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>choVggofyHTsXUGlsHcmty4/VEtjFcIgmYpKWFoSw+c=</dsig:DigestValue>
+        <dsig:DigestValue>OpNUm+kjPLXLp38BUmD6QqNIX9DglAgk0h7FGwTgQak=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -153,7 +154,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ze3yIWCUIsUbp0OyDMi/s3T+aeHd+RZoNasjcegkiSA=</dsig:DigestValue>
+        <dsig:DigestValue>Q2i0WNQU6qvtmM8BOA3w3gtmZW5hK7BAJ1cZIxcmmH0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -165,7 +166,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Rrj6Nu/15P7WoaNxk2MV/xApGATAWkCaFofLDbmP4vc=</dsig:DigestValue>
+        <dsig:DigestValue>iQ0LMH4WBRicQ9qafDRHFSXLzQEs+bq5n/cq97+cMzM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -177,7 +178,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>e7VzL8gNqe+vaL4C2ldkw3rkiifIlaTPKvfcJ8rnoMA=</dsig:DigestValue>
+        <dsig:DigestValue>3cN4ofWHZ2YyojTHieHYzp+MWQDAR2c9mbypL2aJHz4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -337,13 +338,22 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CellTrack.exe.config" size="5915">
+  <file name="CellTrack.exe.config" size="5901">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>wcedGcxGpMi9EbP0mxjf6lmsZo7eK1lwbWLAy/VyegE=</dsig:DigestValue>
+      <dsig:DigestValue>N2+0hWoHbm7nnMCJ2BYSFAkgzDoGUJD4I4W429UYfJU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BJ5IdGjbi7bTc7TuYFusF20GfPhTdL7JPY/0UWcEYyY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Models\DataBases\bdRegistros.Context.tt" size="26166">
@@ -382,13 +392,13 @@
       <dsig:DigestValue>i608R+IlcFYpWzdQeQ55bRe9Ddf3QkPqByX5txKeKrM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="NLog.config" size="1238">
+  <file name="NLog.config" size="1224">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aR+Yg1sSNNTJqVVxsQbhz3I8MxMIovIpxyybCtM3CUg=</dsig:DigestValue>
+      <dsig:DigestValue>cP5RCzS+tyflVFGl3AlqaTInITM+dyfWlSZbN7Iddts=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
